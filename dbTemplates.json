@@ -1,0 +1,20 @@
+// {"messages":{}}
+
+
+
+// Add memory initially 
+
+// {
+//   "messages": [{
+//     "role":"user", "content":"Hi my name is sherry"
+//   }]
+// }
+
+
+// Speak for the AI
+
+{
+  "messages": [
+    {"role":"user", "content":"Hi my name is sherry"},
+    { "role":"assistant", "content":"hi Sherry"}]
+}
