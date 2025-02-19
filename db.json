@@ -85,6 +85,277 @@
       "tool_call_id": "call_jbSaq6EgBFbWm3Xg5bUW0pN5",
       "id": "dc465b38-ddb2-4e60-bbd8-f1cca4727aa9",
       "createdAt": "2024-11-05T20:20:37.041Z"
+    },
+    {
+      "role": "user",
+      "content": "what is the weather right now?",
+      "id": "ec47c2c4-7aec-4a90-9729-5666c1608112",
+      "createdAt": "2025-02-19T06:29:44.142Z"
+    },
+    {
+      "role": "assistant",
+      "content": "The weather right now in Minnesota is hot, with a temperature of 90 degrees.",
+      "refusal": null,
+      "id": "9efdc4f3-b2a7-46e0-8185-85c4cdffa293",
+      "createdAt": "2025-02-19T06:29:53.508Z"
+    },
+    {
+      "role": "user",
+      "content": "what is the weather right now?",
+      "id": "079fa288-f774-4da3-b560-606c219088c4",
+      "createdAt": "2025-02-19T06:51:56.702Z"
+    },
+    {
+      "role": "assistant",
+      "content": "The current weather in Minnesota is hot, with a temperature of 90 degrees.",
+      "refusal": null,
+      "id": "3bda4908-31c0-449c-a5a2-02ad3d6c5155",
+      "createdAt": "2025-02-19T06:51:58.807Z"
+    },
+    {
+      "role": "assistant",
+      "content": "The current weather in Minnesota is hot, with a temperature of 90 degrees.",
+      "refusal": null,
+      "id": "8bd031e9-8e92-43bc-a71d-4defc4f3fcd0",
+      "createdAt": "2025-02-19T06:51:59.695Z"
+    },
+    {
+      "role": "assistant",
+      "content": "The current weather in Minnesota is hot, with a temperature of 90 degrees.",
+      "refusal": null,
+      "id": "ed11c279-642c-47f8-908c-52a943a45885",
+      "createdAt": "2025-02-19T06:52:00.530Z"
+    },
+    {
+      "role": "assistant",
+      "content": "The current weather in Minnesota is hot, with a temperature of 90 degrees.",
+      "refusal": null,
+      "id": "0c7f2714-51d5-4451-b5cf-62f624e31ec5",
+      "createdAt": "2025-02-19T06:52:01.311Z"
+    },
+    {
+      "role": "assistant",
+      "content": "The current weather in Minnesota is hot, with a temperature of 90 degrees.",
+      "refusal": null,
+      "id": "3aa7c674-9f90-438c-ac75-044618a91b89",
+      "createdAt": "2025-02-19T06:52:02.098Z"
+    },
+    {
+      "role": "assistant",
+      "content": "The current weather in Minnesota is hot, with a temperature of 90 degrees.",
+      "refusal": null,
+      "id": "fce2024f-9f68-46a4-80a7-77b3477482de",
+      "createdAt": "2025-02-19T06:52:03.096Z"
+    },
+    {
+      "role": "assistant",
+      "content": "The current weather in Minnesota is hot, with a temperature of 90 degrees.",
+      "refusal": null,
+      "id": "92654d5c-54f1-467e-a85f-baca24c247fa",
+      "createdAt": "2025-02-19T06:52:03.985Z"
+    },
+    {
+      "role": "assistant",
+      "content": "The current weather in Minnesota is hot, with a temperature of 90 degrees.",
+      "refusal": null,
+      "id": "ab2a5c79-9073-4aca-a9f3-4465596d95c4",
+      "createdAt": "2025-02-19T06:52:04.730Z"
+    },
+    {
+      "role": "assistant",
+      "content": "The current weather in Minnesota is hot, with a temperature of 90 degrees.",
+      "refusal": null,
+      "id": "4770e532-f0e6-48ff-92f9-907fab2a5dea",
+      "createdAt": "2025-02-19T06:52:06.033Z"
+    },
+    {
+      "role": "assistant",
+      "content": "The current weather in Minnesota is hot, with a temperature of 90 degrees.",
+      "refusal": null,
+      "id": "a6bef4df-0665-4ca1-b69f-5e1776901395",
+      "createdAt": "2025-02-19T06:52:06.974Z"
+    },
+    {
+      "role": "assistant",
+      "content": "The current weather in Minnesota is hot, with a temperature of 90 degrees.",
+      "refusal": null,
+      "id": "66204de3-d762-4cdf-b49e-1cde295312ba",
+      "createdAt": "2025-02-19T06:52:07.869Z"
+    },
+    {
+      "role": "assistant",
+      "content": "The current weather in Minnesota is hot, with a temperature of 90 degrees.",
+      "refusal": null,
+      "id": "df5bb09c-330e-4e40-872c-7eb152fbc698",
+      "createdAt": "2025-02-19T06:52:09.024Z"
+    },
+    {
+      "role": "assistant",
+      "content": "The current weather in Minnesota is hot, with a temperature of 90 degrees.",
+      "refusal": null,
+      "id": "860f765d-e4f8-4597-9982-3d40bc3e0599",
+      "createdAt": "2025-02-19T06:52:10.119Z"
+    },
+    {
+      "role": "assistant",
+      "content": "The current weather in Minnesota is hot, with a temperature of 90 degrees.",
+      "refusal": null,
+      "id": "b762707e-6122-43a2-9a0a-ef45f2204c53",
+      "createdAt": "2025-02-19T06:52:11.143Z"
+    },
+    {
+      "role": "assistant",
+      "content": "The current weather in Minnesota is hot, with a temperature of 90 degrees.",
+      "refusal": null,
+      "id": "be753f4f-bd35-4f05-ac20-5c96f46bc712",
+      "createdAt": "2025-02-19T06:52:11.992Z"
+    },
+    {
+      "role": "assistant",
+      "content": "The current weather in Minnesota is hot, with a temperature of 90 degrees.",
+      "refusal": null,
+      "id": "b8bb1a44-4af9-46c4-b7ef-022df03903b3",
+      "createdAt": "2025-02-19T06:52:12.843Z"
+    },
+    {
+      "role": "assistant",
+      "content": "The current weather in Minnesota is hot, with a temperature of 90 degrees.",
+      "refusal": null,
+      "id": "4fb15bda-a546-40bb-a8a2-4b6c37a5e1c1",
+      "createdAt": "2025-02-19T06:52:13.721Z"
+    },
+    {
+      "role": "assistant",
+      "content": "The current weather in Minnesota is hot, with a temperature of 90 degrees.",
+      "refusal": null,
+      "id": "782a9bd3-f384-44bf-a2d5-933d5e1c44e4",
+      "createdAt": "2025-02-19T06:52:14.666Z"
+    },
+    {
+      "role": "assistant",
+      "content": "The current weather in Minnesota is hot, with a temperature of 90 degrees.",
+      "refusal": null,
+      "id": "224977f0-a617-4691-8fae-fd6a7da87b53",
+      "createdAt": "2025-02-19T06:52:15.651Z"
+    },
+    {
+      "role": "assistant",
+      "content": "The current weather in Minnesota is hot, with a temperature of 90 degrees.",
+      "refusal": null,
+      "id": "5ab3aadd-f893-4fda-ba56-5ed1f8ebe9fa",
+      "createdAt": "2025-02-19T06:52:16.572Z"
+    },
+    {
+      "role": "assistant",
+      "content": "The current weather in Minnesota is hot, with a temperature of 90 degrees.",
+      "refusal": null,
+      "id": "fc274596-a6f2-402a-8fd2-38dcf23dd045",
+      "createdAt": "2025-02-19T06:52:17.423Z"
+    },
+    {
+      "role": "assistant",
+      "content": "The current weather in Minnesota is hot, with a temperature of 90 degrees.",
+      "refusal": null,
+      "id": "209627cb-ee7b-47cc-af61-2dd77c8d0186",
+      "createdAt": "2025-02-19T06:52:18.345Z"
+    },
+    {
+      "role": "assistant",
+      "content": "The current weather in Minnesota is hot, with a temperature of 90 degrees.",
+      "refusal": null,
+      "id": "5dd6d55b-a2a2-4e02-b76b-a177c6a31020",
+      "createdAt": "2025-02-19T06:52:19.492Z"
+    },
+    {
+      "role": "assistant",
+      "content": "The current weather in Minnesota is hot, with a temperature of 90 degrees.",
+      "refusal": null,
+      "id": "d046ee2e-218a-4129-a620-bf21d8dd30fd",
+      "createdAt": "2025-02-19T06:52:20.586Z"
+    },
+    {
+      "role": "assistant",
+      "content": "The current weather in Minnesota is hot, with a temperature of 90 degrees.",
+      "refusal": null,
+      "id": "5748df35-ff0c-4651-8835-c8896558619d",
+      "createdAt": "2025-02-19T06:52:21.588Z"
+    },
+    {
+      "role": "assistant",
+      "content": "The current weather in Minnesota is hot, with a temperature of 90 degrees.",
+      "refusal": null,
+      "id": "4236a578-dfd1-4b3d-a23a-3f8835b5b1bb",
+      "createdAt": "2025-02-19T06:52:22.515Z"
+    },
+    {
+      "role": "assistant",
+      "content": "The current weather in Minnesota is hot, with a temperature of 90 degrees.",
+      "refusal": null,
+      "id": "7394aebb-ea56-46e3-a0eb-302eec0d1ec5",
+      "createdAt": "2025-02-19T06:52:23.607Z"
+    },
+    {
+      "role": "assistant",
+      "content": "The current weather in Minnesota is hot, with a temperature of 90 degrees.",
+      "refusal": null,
+      "id": "d97d2aeb-26b5-4776-bfb4-9668aee4b256",
+      "createdAt": "2025-02-19T06:52:25.275Z"
+    },
+    {
+      "role": "assistant",
+      "content": "The current weather in Minnesota is hot, with a temperature of 90 degrees.",
+      "refusal": null,
+      "id": "c0897a8b-ab35-4a60-a24f-589ebb656004",
+      "createdAt": "2025-02-19T06:52:26.474Z"
+    },
+    {
+      "role": "assistant",
+      "content": "The current weather in Minnesota is hot, with a temperature of 90 degrees.",
+      "refusal": null,
+      "id": "bf9193d6-8a39-489d-ab6d-0673f2b94d00",
+      "createdAt": "2025-02-19T06:52:27.528Z"
+    },
+    {
+      "role": "assistant",
+      "content": "The current weather in Minnesota is hot, with a temperature of 90 degrees.",
+      "refusal": null,
+      "id": "3e480324-8ac9-4f74-882d-cd0a8f11c78f",
+      "createdAt": "2025-02-19T06:52:28.551Z"
+    },
+    {
+      "role": "assistant",
+      "content": "The current weather in Minnesota is hot, with a temperature of 90 degrees.",
+      "refusal": null,
+      "id": "5707acf1-68d4-4800-8401-922982d9acf0",
+      "createdAt": "2025-02-19T06:52:29.398Z"
+    },
+    {
+      "role": "assistant",
+      "content": "The current weather in Minnesota is hot, with a temperature of 90 degrees.",
+      "refusal": null,
+      "id": "05b9f839-dec5-4f95-b1c7-e9845f98342e",
+      "createdAt": "2025-02-19T06:52:30.293Z"
+    },
+    {
+      "role": "assistant",
+      "content": "The current weather in Minnesota is hot, with a temperature of 90 degrees.",
+      "refusal": null,
+      "id": "1ad6d2ed-cdf0-400d-9f27-c721540fd4e0",
+      "createdAt": "2025-02-19T06:52:31.219Z"
+    },
+    {
+      "role": "assistant",
+      "content": "The current weather in Minnesota is hot, with a temperature of 90 degrees.",
+      "refusal": null,
+      "id": "a1523f5d-dfb6-48d6-9170-a1a522ec2411",
+      "createdAt": "2025-02-19T06:52:32.337Z"
+    },
+    {
+      "role": "assistant",
+      "content": "The current weather in Minnesota is hot, with a temperature of 90 degrees.",
+      "refusal": null,
+      "id": "1be9bc58-a1dc-4390-a4aa-cff96963c671",
+      "createdAt": "2025-02-19T06:52:33.239Z"
     }
   ]
 }
