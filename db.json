@@ -2,53 +2,64 @@
   "messages": [
     {
       "role": "user",
-      "content": "my name is scott",
-      "id": "27d1e15d-15ff-44a3-af2e-daae1190e216",
-      "createdAt": "2024-11-05T20:42:53.667Z"
-    },
-    {
-      "role": "assistant",
-      "content": "Nice to meet you, Scott! How can I assist you today?",
-      "refusal": null,
-      "id": "7ba683d3-0160-4d12-bd19-74b5598bd049",
-      "createdAt": "2024-11-05T20:42:54.208Z"
-    },
-    {
-      "role": "user",
-      "content": "what is the weather in in mexico city",
-      "id": "e76aafe3-903f-4c0e-8ad3-c6ebc4111ad3",
-      "createdAt": "2024-11-05T20:43:04.149Z"
+      "content": "make me a meme image from a random dad joke",
+      "id": "aae4b853-2517-4a2b-a385-8527d48b19d4",
+      "createdAt": "2025-02-22T10:17:18.239Z"
     },
     {
       "role": "assistant",
       "content": null,
       "tool_calls": [
         {
-          "id": "call_PE4XnGL48FBz7y47OM63eBtY",
+          "id": "call_2KCX8xwV4wHFcB9gt496Zouz",
           "type": "function",
           "function": {
-            "name": "get_weather",
-            "arguments": "{\"reasoning\":\"User asked for the current weather in Mexico City.\"}"
+            "name": "dad_joke",
+            "arguments": "{}"
           }
         }
       ],
       "refusal": null,
-      "id": "02bb2468-fb05-49ac-9455-20aa9cf1cb15",
-      "createdAt": "2024-11-05T20:43:04.908Z"
+      "id": "e423ebde-651c-472a-86f8-4d9e597a1d4b",
+      "createdAt": "2025-02-22T10:17:20.725Z"
     },
     {
       "role": "tool",
-      "content": "hot, 90deg",
-      "tool_call_id": "call_PE4XnGL48FBz7y47OM63eBtY",
-      "id": "954a14e2-f21f-4e6b-9471-df6c3cc8fc68",
-      "createdAt": "2024-11-05T20:43:04.912Z"
+      "content": "I wish I could clean mirrors for a living. It's just something I can see myself doing.",
+      "tool_call_id": "call_2KCX8xwV4wHFcB9gt496Zouz",
+      "id": "8c5cff3c-840a-4d9c-911a-25f17b49b200",
+      "createdAt": "2025-02-22T10:17:21.600Z"
     },
     {
       "role": "assistant",
-      "content": "The current weather in Mexico City is hot, with a temperature of 90°F. If you need more details or have any other questions, feel free to ask!",
+      "content": null,
+      "tool_calls": [
+        {
+          "id": "call_q9nq97d5BDM43kRNpuVo30GP",
+          "type": "function",
+          "function": {
+            "name": "generate_image",
+            "arguments": "{\"prompt\":\"A humorous meme image featuring the dad joke: 'I wish I could clean mirrors for a living. It's just something I can see myself doing.' The image should depict a person looking into a mirror with a funny expression, surrounded by cleaning supplies, and the text of the joke in bold, playful font.\"}"
+          }
+        }
+      ],
       "refusal": null,
-      "id": "1dedbb35-8a0c-41d3-97ad-e63f4edfb9eb",
-      "createdAt": "2024-11-05T20:43:05.822Z"
+      "id": "6f396781-7837-43be-abaa-eaed016b6eb7",
+      "createdAt": "2025-02-22T10:17:22.833Z"
+    },
+    {
+      "role": "tool",
+      "content": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-gAnkPczYTsSr2CLvGpGyPpc2/user-rS1yjoPYRd7umBp3H2p5wn96/img-AXhgaHD0ScE4tTWXF4qRjr3u.png?st=2025-02-22T09%3A17%3A33Z&se=2025-02-22T11%3A17%3A33Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-21T19%3A52%3A57Z&ske=2025-02-22T19%3A52%3A57Z&sks=b&skv=2024-08-04&sig=xeu7j6FKWe2WViDZ4hKNj0OLPlRkE4JAvlsvBcTfVnc%3D",
+      "tool_call_id": "call_q9nq97d5BDM43kRNpuVo30GP",
+      "id": "7546ceb5-c3c4-44af-aee9-3f0f75c1529f",
+      "createdAt": "2025-02-22T10:17:33.292Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Here's your meme image featuring the dad joke:\n\n![Meme Image](https://oaidalleapiprodscus.blob.core.windows.net/private/org-gAnkPczYTsSr2CLvGpGyPpc2/user-rS1yjoPYRd7umBp3H2p5wn96/img-AXhgaHD0ScE4tTWXF4qRjr3u.png?st=2025-02-22T09%3A17%3A33Z&se=2025-02-22T11%3A17%3A33Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-21T19%3A52%3A57Z&ske=2025-02-22T19%3A52%3A57Z&sks=b&skv=2024-08-04&sig=xeu7j6FKWe2WViDZ4hKNj0OLPlRkE4JAvlsvBcTfVnc%3D)\n\nThe joke reads: \"I wish I could clean mirrors for a living. It's just something I can see myself doing.\" Enjoy!",
+      "refusal": null,
+      "id": "0aaf7b8c-efa3-419b-8bf2-44f37734569a",
+      "createdAt": "2025-02-22T10:17:36.949Z"
     }
   ]
 }
